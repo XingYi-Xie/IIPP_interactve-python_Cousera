@@ -3,6 +3,7 @@
 This repo contains the some course material, as well as my implementation of mini-project for the course "An Introduction to interactive Programming in Python" at Coursera.
 
 ——————————————————
+
 这只repo包含了Coursera 上的“Python交互编程入门”的一些课程材料，以及小U自己做的mini-project。
 
 * Part I (Week 0-4): https://www.coursera.org/course/interactivepython1
@@ -20,6 +21,7 @@ I'm at week 6 of the course, so only contents of week 0-5 is available.
 * the code of my implementations (*.py), with corresponding CodeSkulpter URLs at the bottom of the file.
 
 ——————————————————
+
 （目前只有与mini-project相关的内容）
 现在小U只跟到课程的Week 6, 所以目前只有 week 0-5的内容^_^~
 
